@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348257904888",
+    "project_id": "socialmedia-3a954",
+    "storage_bucket": "socialmedia-3a954.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348257904888:android:d7b849f01beefcc988b30d",
+        "android_client_info": {
+          "package_name": "com.shakil.youtubeclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66jUcq46ZN33j5veDsfAzxS61XNMWREs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
